@@ -185,6 +185,84 @@
         <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-35" value="GTB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="566" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-63" value="api-np-dev.org.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-64" value="api-np-dev.org.com/cad/dev/schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="390" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-65" value="api-np-dev.org.com/cad/dev/crew" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="416" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-66" value="api-np-dev.org.com/cad/dev/gtb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-409" y="440" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-67" value="api.org.com/cad/schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-68" value="api.org.com/cad/crew" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="246" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-69" value="api.org.com/cad/gtb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-70" value="api-np-dev.org.com/cad/trial/schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-71" value="api-np-dev.org.com/cad/trial/crew" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="114" y="766" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-72" value="api-np-dev.org.com/cad/trial/gtb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="790" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-73" value="api.org.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt6OHq9H0NEp2cN9ZZlA-75" target="Lt6OHq9H0NEp2cN9ZZlA-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-75" value="APIM (Premium Tier)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt6OHq9H0NEp2cN9ZZlA-77" target="Lt6OHq9H0NEp2cN9ZZlA-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-77" value="CAD (BU)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt6OHq9H0NEp2cN9ZZlA-81" target="Lt6OHq9H0NEp2cN9ZZlA-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt6OHq9H0NEp2cN9ZZlA-81" target="Lt6OHq9H0NEp2cN9ZZlA-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt6OHq9H0NEp2cN9ZZlA-81" target="Lt6OHq9H0NEp2cN9ZZlA-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-81" value="Product CAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-82" value="Schedules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-83" value="Crew" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-84" value="GTB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-85" value="api-dr.org.com/cad/schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-86" value="api-dr.org.com/cad/crew" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="984" y="246" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-87" value="api-dr.org.com/cad/gtb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="981" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lt6OHq9H0NEp2cN9ZZlA-88" value="api-dr.org.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
